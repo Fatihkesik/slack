@@ -7,6 +7,8 @@ public class Probe1 {
         //ohne Probe kann man nicht lernen
         
         //wir streben nach der Beste
+        
+        //gib niemal auf
 
         
     }
